@@ -1,1 +1,3 @@
-# Android Sample Project
+# CCC25-Test07
+
+技術的仕様・レイアウト説明用
