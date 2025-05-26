@@ -1,4 +1,4 @@
-package jp.ed.shiga_ec.setatech_h.ccc.android;
+package jp.ed.shiga_ec.setatech_h.ccc.android.test07;
 
 import android.app.Activity;
 import android.os.Bundle;

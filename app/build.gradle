@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "jp.ed.shiga_ec.setatech_h.ccc.android"
+    namespace = "jp.ed.shiga_ec.setatech_h.ccc.android.test07"
     compileSdk = 35
 
     defaultConfig {
